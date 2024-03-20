@@ -9,7 +9,7 @@ function Main(){
                 </h3>
                 <p className="descricao-estudante">
                     Professor do IFMS nas matérias de 
-                    Desenvolvimento / Desenvolvimento Web
+                    Desenvolvimento - Desenvolvimento Web
                 </p>
                 <a href="https://github.com/guilhermeterenciani">
                     GitHub
