@@ -1,5 +1,5 @@
 import './Main.css'
-import Estudante from './Estudante'
+import Estudante from '../estudante/Estudante'
 function Main(){
     return(
         <main>
