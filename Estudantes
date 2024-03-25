@@ -5,6 +5,13 @@
                 githubLink='https://github.com/guilhermeterenciani'
             />
  <Estudante 
+
+            nome="Maria Clara" 
+            imagem = "https://github.com/mariFeldk.png"
+            descricao = "estudante do IFMS informatica para internet"
+            githubLink="https://github.com/mariFeldk"/>
+            
+
             nome="MarcUs Gamer"
             imagem='https://github.com/linss22.png'
             descricao='Gamer do IFMS hahahahahahah'
