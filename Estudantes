@@ -11,3 +11,9 @@
             githubLink='https://github.com/linss22'
             />    
           
+<Estudante 
+                nome="Gustavo A."
+                imagem="https://github.com/torneira.png"
+                descricao="GG"
+                githubLink="https://github.com/torneira"
+                />
